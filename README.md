@@ -1,5 +1,3 @@
-# README
-
 # GUESTRUY
 
 An API that serves the backend for a guest management app, useful for churches and events
